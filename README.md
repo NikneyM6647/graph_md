@@ -19,7 +19,7 @@ An alternative to Obsidian's graph view — no browser, no database, just files.
 ## Install & Run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/notes-graph.git
+https://github.com/NikneyM6647/Graph_md.git
 cd notes-graph
 pip install -r requirements.txt
 python main.py
