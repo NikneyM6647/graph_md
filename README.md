@@ -4,7 +4,7 @@
 
 An alternative to Obsidian's graph view — no browser, no database, just files.
 
-![screenshot](docs/screenshot.png)
+
 
 ## Features
 
@@ -36,13 +36,6 @@ notes-graph/
     └── screenshot.png
 
 
-Note format
-# Scene 1. Meeting
-
-The hero arrives and meets [[Character A]].
-See also [[Scene 2. Conflict]].
-
-
 Link types
 Type	Color
 related	🟢 green
@@ -57,18 +50,7 @@ File size → log gradient from 🔵 blue (≤100 B) to 🔴 red (≥10 MB).
 Tech
 Python 3.10+ · PySide6 · QWebEngineView · pyvis + vis.js · NetworkX · PyYAML
 
-License
-MIT
 
-text
-
-## Куда вставить
-
-1. VS Code → правый клик на `GRAPHmd` → **New File**
-2. Имя: `README.md`
-3. `Ctrl+V` → `Ctrl+S`
-
-Готово.
 
 
 
