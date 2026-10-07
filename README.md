@@ -25,17 +25,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Structure
-notes-graph/
-├── main.py
-├── core.py
-├── requirements.txt
-├── links.yaml
-├── vault/          # your .md notes
-└── docs/
-    └── screenshot.png
-
-
 Link types
 Type	Color
 related	🟢 green
