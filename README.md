@@ -19,7 +19,7 @@ An alternative to Obsidian's graph view — no browser, no database, just files.
 ## Install & Run
 
 ```bash
-https://github.com/NikneyM6647/Graph_md.git
+git clone https://github.com/NikneyM6647/Graph_md.git
 cd Graph_md
 pip install -r requirements.txt
 python main.py
